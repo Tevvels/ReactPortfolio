@@ -13,7 +13,7 @@
     flex-direction: row-reverse;
 }
 .list-div{
-    width: 100%;
+    width: 85%;
 }
 .listitem{
 
@@ -21,6 +21,8 @@
     color: white;
     text-decoration: none;
     list-style-type: none;
+    text-transform: uppercase;
+
 }
 .nav-name{
     flex-direction: row;

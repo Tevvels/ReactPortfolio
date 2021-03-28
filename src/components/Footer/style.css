@@ -7,4 +7,12 @@
     width: 100%;
     border:2px solid seagreen;
     padding-top: 4px;
+    color: white;
+    font-size: 15px;
+}
+
+span{
+    position:fixed;
+    bottom: 22px;
+    left: 45%
 }

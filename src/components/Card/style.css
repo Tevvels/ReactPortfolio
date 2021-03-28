@@ -1,11 +1,36 @@
 .card{
-    height: 200px;
-    width: 160px;
+    height: 75px;
+    width: 75px;
     background: hotpink;
+    border: 1px solid white;
+    box-shadow: 0 0 1rem orange;
+    margin-left: 15px;
+    list-style-type:none;
+    text-decoration: none;
+    transition: all 2s;
+    border-radius: 50%;
+    overflow: hidden;
 
 }
+.card:hover{
+    height: 400px;
+    width: 320px;
+    border-radius:0;
+}
+.card-anchor{
+    text-decoration: none;
+}
+
+.card-name{
+    text-decoration: none;
+    color:white;
+}
+.card-desc{
+    color:white;
+}
+
 .card-img{
-    height: 100px;
-    width: 150px;
+    height: 200px;
+    width: 300px;
     
 }

@@ -4,7 +4,7 @@ import "./style.css";
 function Footer(){
     return(
         <footer className="footer">
-            <span>&copy;  Christopher Watkins</span>
+            <span>&copy; Copyright 2021 Christopher Watkins</span>
         </footer>
     );
 }

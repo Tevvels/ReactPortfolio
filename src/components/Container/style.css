@@ -6,9 +6,24 @@ body{
 
 .container{
     display: flex;
+    flex-wrap: wrap;
     height: 550px;
     width: 550px;
     background-color: seagreen;
     border: 1px solid white;
-    color: white;;
+    color: white;
+    justify-content: center;
+    
+}
+
+.container-projects{
+    width: 85%;
+
+}
+.container-about{
+    width: 45%;
+}
+.container-resume{
+    width: 75%;
+
 }
