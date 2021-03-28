@@ -1,13 +1,25 @@
-import React from "react";
+import React, {useState} from "react";
 import Container from "../components/Container"
 
-function contact(){
+function Contact(){
+
+    const [inputs,setinput] = useState({
+        name: "",
+        email: "",
+        textarea:""
+    });
+
+
     return(
         <div>
             <Container /> 
-                       hangin in contact
+                       <form>
+                           <input type="text"></input>
+                           <input type="text"></input>
+                           <input type="text"></input>
+                       </form>
         </div>
     )
 } 
 
-export default contact;
+export default Contact;

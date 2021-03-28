@@ -3,8 +3,8 @@ import "./style.css";
 
 function Footer(){
     return(
-        <footer className="bob">
-            <span>christopher watkins</span>
+        <footer className="footer">
+            <span>&copy;  Christopher Watkins</span>
         </footer>
     );
 }

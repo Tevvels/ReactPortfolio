@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    height: 550px;
+    width: 550px;
+    background-color: seagreen;
+    border: 1px solid white;
+    color: white;;
+}

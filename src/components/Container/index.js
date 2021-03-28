@@ -1,6 +1,7 @@
 import React from "react";
+import "./style.css"
 function Container(props) {
-    return <div className="bob">container</div>
+    return <div className="container"></div>
 }
 
 export default Container;

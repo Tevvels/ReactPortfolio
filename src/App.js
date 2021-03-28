@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 import Wrapper from './components/Wrapper';
 import portfolio from './pages/portfolio';
 import resume from './pages/resume';
-import contact from './pages/contact';
+import Contact from './pages/contact';
 import about from './pages/about';
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
         <Route exact path= "/" component={about} />
         <Route exact path="/portfolio" component={portfolio} />
         <Route exact path="/resume" component={resume} />
-        <Route exact path="/contact" component={contact} />
+        <Route exact path="/Contact" component={Contact} />
         
       <Footer />
     </div>
