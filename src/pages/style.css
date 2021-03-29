@@ -26,3 +26,7 @@ body{
     justify-content: center;
     transition: all 2s;
 }
+#root{
+    height: 100vh;
+}
+

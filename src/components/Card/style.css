@@ -1,21 +1,24 @@
 .card{
-    height: 75px;
-    width: 75px;
+    height: 100px;
+    width: 100px;
     background: hotpink;
     border: 1px solid white;
-    box-shadow: 0 0 1rem orange;
+    box-shadow: 0 0 1rem lime;
     margin-left: 15px;
     list-style-type:none;
     text-decoration: none;
-    transition: all 2s;
+    transition: all 1s;
     border-radius: 50%;
     overflow: hidden;
+    position: absolute;
+    text-align: center;
 
 }
 .card:hover{
     height: 400px;
     width: 320px;
     border-radius:0;
+    z-index: 12;
 }
 .card-anchor{
     text-decoration: none;
@@ -34,3 +37,4 @@
     width: 300px;
     
 }
+
