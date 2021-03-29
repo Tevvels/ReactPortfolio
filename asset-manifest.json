@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.1471c64b.chunk.css",
+    "main.css": "/reactportfolio/static/css/main.3311c8b8.chunk.css",
     "main.js": "/reactportfolio/static/js/main.743b8bdd.chunk.js",
     "main.js.map": "/reactportfolio/static/js/main.743b8bdd.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.b39e4069.js",
@@ -10,7 +10,7 @@
     "static/js/3.b2fab675.chunk.js": "/reactportfolio/static/js/3.b2fab675.chunk.js",
     "static/js/3.b2fab675.chunk.js.map": "/reactportfolio/static/js/3.b2fab675.chunk.js.map",
     "index.html": "/reactportfolio/index.html",
-    "static/css/main.1471c64b.chunk.css.map": "/reactportfolio/static/css/main.1471c64b.chunk.css.map",
+    "static/css/main.3311c8b8.chunk.css.map": "/reactportfolio/static/css/main.3311c8b8.chunk.css.map",
     "static/js/2.4eae4d1c.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.4eae4d1c.chunk.js.LICENSE.txt",
     "static/media/DaBurger.9efcd60d.png": "/reactportfolio/static/media/DaBurger.9efcd60d.png",
     "static/media/Resume.0de46e2b.pdf": "/reactportfolio/static/media/Resume.0de46e2b.pdf",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.b39e4069.js",
     "static/js/2.4eae4d1c.chunk.js",
-    "static/css/main.1471c64b.chunk.css",
+    "static/css/main.3311c8b8.chunk.css",
     "static/js/main.743b8bdd.chunk.js"
   ]
 }
