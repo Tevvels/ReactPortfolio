@@ -21,8 +21,8 @@ const Contact =({ values, onsubmite}) =>{
                            <input type="email"></input>
                            <p>Short description</p>
 
-                           <input type="textArea"></input>
-                           
+                           <textarea className={`textarea`} type="textArea" rows="4" cols="50"></textarea>
+                           <br/>
                             <input type="submit"></input>
                        </form>
 

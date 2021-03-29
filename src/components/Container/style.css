@@ -13,7 +13,9 @@ body{
     border: 1px solid white;
     color: white;
     justify-content: center;
+    /* align-items: center; */
     position: relative;
+    margin: 0 auto;
     
 }
 

@@ -5,9 +5,17 @@
 }
 
 
-.project-1{bottom: 125px; left: 2%}
+.project-1{bottom: 125px; left: 2%
+}
 .project-2{bottom: 275px; left: 16%}
+.project-2:hover{bottom: 125px; left: 16%}
+
 .project-3{bottom: 125px; left: 33%}
+
 .project-4{bottom: 275px; left: 49%}
+.project-4:hover{bottom: 125px; left: 49%}
+
 .project-5{bottom: 125px; left: 65%}
+
 .project-6{bottom: 275px; left: 81%}
+.project-6:hover{bottom: 125px; left: 81%}
