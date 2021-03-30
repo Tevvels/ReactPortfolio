@@ -23,9 +23,11 @@ const Contact =({ values, onsubmite}) =>{
 
                            <textarea className={`textarea`} type="textArea" rows="4" cols="50"></textarea>
                            <br/>
+                    
                             <input type="submit"></input>
+                            <a href="mailto:chrisbwatkins@gmail.com">Or email me here</a>
                        </form>
-
+                        
             } />
         </div>
     )
