@@ -15,6 +15,20 @@ function about(){
                     </p>
                     <p>Phone: 720-498-9054</p>
                     <p>Email: chrisbwatkins@gmail.com</p>
+
+
+                    <figure class="icons">
+                      <a href="https://www.github.com/tevvels" target="_blank">
+                          <i class="fab fa-github"></i>
+                         <p class="iconName">Github</p>
+                      </a>
+                    </figure>
+                    <figure class="icons">
+                     <a href="https://www.linkedin.com/in/christopher-watkins-315547153/" target="_blank">
+                        <i class="fab fa-linkedin"></i>
+                        <p class="iconName">Linkedin</p>
+                    </a>
+              </figure>
                 </>
             }/> 
                       
